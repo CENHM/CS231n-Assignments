@@ -1,2 +1,4 @@
 # CS231n-Assignments
-Assignment solutions for CS231n (Convolutional Neural Networks for Visual Recognition) 2024
+Notes and assignment solutions of CS231n (Convolutional Neural Networks for Visual Recognition) 2024
+
+course link: https://cs231n.stanford.edu/index.html
