@@ -3,5 +3,5 @@ Notes and assignment solutions of CS231n (Convolutional Neural Networks for Visu
 
 course link: https://cs231n.stanford.edu/index.html
 
-Repos worth seeing: 
+Repos worth viewing: 
 - https://gitlab.com/vojtamolda/stanford-cs231n-cnn-for-visual-recognition
